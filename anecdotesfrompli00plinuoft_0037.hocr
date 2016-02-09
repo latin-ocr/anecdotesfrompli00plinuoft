@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "anecdotesfrompli00plinuoft_0037.png"; bbox 0 0 2132 3230; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 677 122 1336 175">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 677 122 1336 175">
+     <span class='ocr_line' id='line_1_1' title="bbox 677 122 1336 175; baseline -0.009 0"><span class='ocrx_word' id='word_1_1' title='bbox 677 122 959 175; x_wconf 61' lang='lat' dir='ltr'>PLINY’S</span> <span class='ocrx_word' id='word_1_2' title='bbox 1019 122 1336 174; x_wconf 62' lang='lat' dir='ltr'>LETTERs</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 432 372 1570 2476">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 432 372 1570 2476">
+     <span class='ocr_line' id='line_1_2' title="bbox 432 372 1570 2476; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 432 372 1570 2476; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 317 2748 427 2778">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 317 2748 427 2778">
+     <span class='ocr_line' id='line_1_3' title="bbox 317 2748 427 2778; baseline 0 -2"><span class='ocrx_word' id='word_1_4' title='bbox 317 2748 427 2778; x_wconf 65' lang='lat'>1⁴5⁴·2</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
